@@ -17,4 +17,4 @@ Nine supervised learning models are used:
 * K Nearest Neighbors 
 
 [Customer Churn Analysis Notebook](https://bliu920.github.io/notebooks/customer_churn_portfolio.html)
-<img src="images/customer_churn.png?raw=true"/>
+<img src="images/customer_churn_preview.png?raw=true"/>
