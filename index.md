@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://bliu920.github.io/blob/main/notebooks/customer_churn_portfolio.html)
+[Customer Churn Analysis](https://bliu920.github.io/blob/main/notebooks/customer_churn_portfolio.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
