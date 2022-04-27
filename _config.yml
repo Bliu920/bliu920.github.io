@@ -1,7 +1,9 @@
 title: Ben Liu # your name (or website title) here
 logo: "/images/my_logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Science Practitioner | Master of Management of Artificial Intelligence from Schulich
+  Data Science Practitioner
+  <br><br>
+  Master of Management of Artificial Intelligence from Schulich School of Business
   <br><br>
   <a href="https://www.linkedin.com/in/benliuaiconsultant/">View My LinkedIn Profile</a> 
   
